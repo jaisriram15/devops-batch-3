@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "************* Welcome to AWS server *************"
+
+echo " I love to connect with AWS server to git server "
